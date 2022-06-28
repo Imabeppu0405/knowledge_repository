@@ -1,0 +1,2 @@
+# knowledge_repository
+プログラミング以外の知識の置き場所
